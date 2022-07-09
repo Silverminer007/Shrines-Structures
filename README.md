@@ -14,15 +14,15 @@ In the past, Shrines required a dependency (Dynamic Registries for versions 1.18
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y72eAz8uq9E
 " target="_blank"><img src="http://img.youtube.com/vi/Y72eAz8uq9E/0.jpg" 
-alt="Abandoned Villa Spotlight" width="240" height="180" border="10" /></a>
+alt="Abandoned Villa Spotlight" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=R0H4iIBZd2A
 " target="_blank"><img src="http://img.youtube.com/vi/R0H4iIBZd2A/0.jpg" 
-alt="Modern Villa & Wodern Villa Spotlight" width="240" height="180" border="10" /></a>
+alt="Modern Villa & Wodern Villa Spotlight" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZZKTSxf8t8A
 " target="_blank"><img src="http://img.youtube.com/vi/ZZKTSxf8t8A/0.jpg" 
-alt="World Tree Manor Spotlight Spotlight" width="240" height="180" border="10" /></a>
+alt="World Tree Manor Spotlight Spotlight" border="10" /></a>
 
 **(Content creator is a project collaborator. This video content was created with full support from the Shrines Structures mod and exclusive permission was granted for use on this page)**
 
@@ -66,7 +66,7 @@ Discover luxurious accommodations, loot, and hidden secrets inside of the Modern
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SXLNO3WXrJA
 " target="_blank"><img src="http://img.youtube.com/vi/SXLNO3WXrJA/0.jpg" 
-alt="Add Custom Structures" width="240" height="180" border="10" /></a>
+alt="Add Custom Structures" border="10" /></a>
 
 ![Credits](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_4.png)
 

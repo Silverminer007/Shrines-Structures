@@ -2,7 +2,7 @@
 
 ![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_header.png)
 
-![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_promo.png)
+[![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_promo.png)](https://bisecthosting.com/SHRINES)
 
 ### Dependencies
 
@@ -87,12 +87,12 @@ Here I would like to mention once again the names of the most hard-working staff
 
 Signed Silverminer
 
-![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_5.png)
+[![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_5.png)](https://discord.gg/8pUpWCEUe2)
 
-![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_6.png)
+[![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_6.png)](https://github.com/Silverminer007/Shrines/issues)
 
-![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_7.png)
+[![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_7.png)](https://www.buymeacoffee.com/silverminer)
 
-![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_8.png)
+[![](https://bisecthosting.com/images/CF/ShrinesStructures/bh\_8.png)](https://www.instagram.com/silverminer007/)
 
 ![Showcase Screenshot](https://i.imgur.com/M1DdpFS.png) ![Showcase Screenshot](https://i.imgur.com/J5fPl6c.png) ![Showcase Screenshot](https://imgur.com/rZbUFfQ.png) ![Showcase Screenshot](https://imgur.com/otRzsqZ.png) ![Showcase Screenshot](https://imgur.com/ZA37iZZ.png) ![Showcase Screenshot](https://i.imgur.com/9aEg07l.png) ![Showcase Screenshot](https://i.imgur.com/9mwQbPN.png) ![Showcase Screenshot](https://i.imgur.com/pbKXBpx.jpg)
